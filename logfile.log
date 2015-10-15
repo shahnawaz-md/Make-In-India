@@ -1,0 +1,73 @@
+2015-10-08 17:01:04,950 INFO  [Log] **************************************************************************************** 
+2015-10-08 17:01:04,951 INFO  [Log] **************************************************************************************** 
+2015-10-08 17:01:04,951 INFO  [Log]                                sTestCaseName                                        
+2015-10-08 17:01:04,951 INFO  [Log] **************************************************************************************** 
+2015-10-08 17:01:04,951 INFO  [Log] **************************************************************************************** 
+2015-10-08 17:01:07,403 INFO  [Log] New driver instantiated 
+2015-10-08 17:01:16,796 INFO  [Log] Web application launched 
+2015-10-08 17:01:16,800 INFO  [Log] Implicit wait applied on the driver 
+2015-10-08 17:01:20,057 INFO  [Log] Clicking on FAQ link 
+2015-10-08 17:01:20,057 INFO  [Log] We are now on the Faq page 
+2015-10-08 17:01:20,130 INFO  [Log] Clicking on Search Textbox 
+2015-10-08 17:01:20,238 INFO  [Log] Entering the data in the Search Textbox 
+2015-10-08 17:01:21,713 INFO  [Log] Clicking on the Search Button 
+2015-10-08 17:01:45,713 INFO  [Log] Events performed on the FAQ page 
+2015-10-08 17:01:47,978 INFO  [Log] Clicking on Query Form link 
+2015-10-08 17:01:47,978 INFO  [Log] We are now on the Query Form Page 
+2015-10-08 17:01:49,292 INFO  [Log] Entering the First Name 
+2015-10-08 17:01:50,549 INFO  [Log] Entering the Last Name 
+2015-10-08 17:01:51,884 INFO  [Log] Entering the Email Id 
+2015-10-08 17:01:53,185 INFO  [Log] Entering the Contact Number 
+2015-10-08 17:01:54,493 INFO  [Log] Entering the Query Title 
+2015-10-08 17:01:55,847 INFO  [Log] Selecting the Sectors 
+2015-10-08 17:01:57,190 INFO  [Log] Selecting the Country 
+2015-10-08 17:01:58,534 INFO  [Log] Entering the Query Details 
+2015-10-08 17:02:01,482 INFO  [Log] Clicking on Submit Button 
+2015-10-08 17:02:25,482 INFO  [Log] Events performed on the Query Form 
+2015-10-08 17:02:26,887 INFO  [Log] Browser closed 
+2015-10-08 17:02:26,887 INFO  [Log] **************************************************************************************** 
+2015-10-08 17:02:26,887 INFO  [Log] **************************************************************************************** 
+2015-10-08 17:02:26,887 INFO  [Log] $$$$$$$$$$$$$$$$$$             E------N------D                $$$$$$$$$$$$$$$$$$$ 
+2015-10-08 17:02:26,887 INFO  [Log] **************************************************************************************** 
+2015-10-08 17:02:26,887 INFO  [Log] **************************************************************************************** 
+2015-10-12 11:30:19,455 INFO  [Log] **************************************************************************************** 
+2015-10-12 11:30:19,479 INFO  [Log] **************************************************************************************** 
+2015-10-12 11:30:19,479 INFO  [Log]                                sTestCaseName                                        
+2015-10-12 11:30:19,479 INFO  [Log] **************************************************************************************** 
+2015-10-12 11:30:19,479 INFO  [Log] **************************************************************************************** 
+2015-10-12 11:30:28,366 INFO  [Log] New driver instantiated 
+2015-10-12 11:30:36,895 INFO  [Log] Web application launched 
+2015-10-12 11:30:36,920 INFO  [Log] Implicit wait applied on the driver 
+2015-10-12 11:30:40,709 INFO  [Log] Clicking on FAQ link 
+2015-10-12 11:30:40,709 INFO  [Log] We are now on the Faq page 
+2015-10-12 11:30:40,896 INFO  [Log] Clicking on Search Textbox 
+2015-10-12 11:30:41,042 INFO  [Log] Entering the data in the Search Textbox 
+2015-10-12 11:30:43,007 INFO  [Log] Clicking on the Search Button 
+2015-10-12 11:31:07,008 INFO  [Log] Events performed on the FAQ page 
+2015-10-12 11:31:08,573 INFO  [Log] Clicking on Query Form link 
+2015-10-12 11:31:08,573 INFO  [Log] We are now on the Query Form Page 
+2015-10-12 11:31:09,924 INFO  [Log] Entering the First Name 
+2015-10-12 11:31:11,199 INFO  [Log] Entering the Last Name 
+2015-10-12 11:31:12,491 INFO  [Log] Entering the Email Id 
+2015-10-12 11:31:13,807 INFO  [Log] Entering the Contact Number 
+2015-10-12 11:31:15,099 INFO  [Log] Entering the Query Title 
+2015-10-12 11:31:16,515 INFO  [Log] Selecting the Sectors 
+2015-10-12 11:31:17,866 INFO  [Log] Selecting the Country 
+2015-10-12 11:31:19,213 INFO  [Log] Entering the Query Details 
+2015-10-12 11:31:21,281 INFO  [Log] Clicking on Submit Button 
+2015-10-12 11:31:45,281 INFO  [Log] Events performed on the Query Form 
+2015-10-12 11:31:46,313 INFO  [Log] Clicking on Site FeedBack link 
+2015-10-12 11:31:48,613 INFO  [Log] Entering the First Name 
+2015-10-12 11:31:50,899 INFO  [Log] Entering the Last Name 
+2015-10-12 11:31:53,195 INFO  [Log] Entering the Email Id 
+2015-10-12 11:31:55,494 INFO  [Log] Entering the Contact Number 
+2015-10-12 11:31:57,777 INFO  [Log] Entering the Subject 
+2015-10-12 11:32:00,090 INFO  [Log] Entering the Feed Back 
+2015-10-12 11:32:02,958 INFO  [Log] Clicking the Submit Button 
+2015-10-12 11:32:26,958 INFO  [Log] Events performed on the Site Feed Back Page 
+2015-10-12 11:32:28,501 INFO  [Log] Browser closed 
+2015-10-12 11:32:28,502 INFO  [Log] **************************************************************************************** 
+2015-10-12 11:32:28,502 INFO  [Log] **************************************************************************************** 
+2015-10-12 11:32:28,502 INFO  [Log] $$$$$$$$$$$$$$$$$$             E------N------D                $$$$$$$$$$$$$$$$$$$ 
+2015-10-12 11:32:28,502 INFO  [Log] **************************************************************************************** 
+2015-10-12 11:32:28,502 INFO  [Log] **************************************************************************************** 
